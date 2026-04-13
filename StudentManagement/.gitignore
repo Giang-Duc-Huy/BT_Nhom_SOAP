@@ -1,0 +1,21 @@
+# .NET & Visual Studio
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.pdb
+
+# Database
+students.db
+*.db
+*.sqlite
+
+# Logs & Temp
+*.log
+*.tmp
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
