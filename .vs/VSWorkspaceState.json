@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\StudentManagement",
+    "\\StudentManagement\\StudentManagement.Application",
+    "\\StudentManagement\\StudentManagement.Domain",
+    "\\StudentManagement\\StudentManagement.Infrastructure",
+    "\\StudentManagement\\StudentManagement.Presentation"
+  ],
+  "SelectedNode": "\\StudentManagement\\StudentManagement.slnx",
+  "PreviewInSolutionExplorer": false
+}
